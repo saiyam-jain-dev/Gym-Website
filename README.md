@@ -1,5 +1,5 @@
 ## Use the WebApp
-My Live Web Site for visit [Live Link](https://chans-gym.netlify.app/).
+My Live Web Site for visit [Live Link](https://gym-helper-sammyy.netlify.app/).
 
 * bullet 1 Used React 
 * bullet 2 Used React Library
