@@ -25,7 +25,7 @@ My Live Web Site for visit [Live Link](https://gym-helper-sammyy.netlify.app/).
 
 ### How to Load the App
 ```
-git clone https://github.com/SouvikChan/Gym-Website
+git clone https://github.com/itzsamdev/Gym-Website
 npm install
 npm start
 ```
